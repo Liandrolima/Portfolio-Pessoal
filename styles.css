@@ -55,6 +55,10 @@ section h2 {
     align-items: center;
 }
 
+.profile p {
+    padding: 10px;
+}
+
 .profile img {
     border-radius: 50%;
     width: 150px;
